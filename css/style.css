@@ -116,6 +116,10 @@ body {
 	z-index: 10;
 }
 
+.content-row ul {
+	text-align: left;
+}
+
 #special-active-menu-1,
 #special-active-menu-6 {
 	background-color: #4e4e4e !important;
